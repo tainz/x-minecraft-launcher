@@ -1,0 +1,2 @@
+<template><svg :class="className" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M9.75 3.104v5.714a2.25 2.25 0 0 1-.659 1.591L5 14.5M9.75 3.104c-.251.023-.501.05-.75.082m.75-.082a24.301 24.301 0 0 1 4.5 0m0 0v5.714c0 .597.237 1.17.659 1.591L19 14.5M12 14.5v7.219c0 .597.237 1.17.659 1.591L15 24.182m-3-9.682L12 12.5m0 0L9 14.5m3-2.082V5.418M15 14.5l-3-2.082m0 0L9 14.5" /></svg></template>
+<script setup lang="ts">defineProps<{className?: string}>()</script>
