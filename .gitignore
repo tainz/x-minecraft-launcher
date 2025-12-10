@@ -23,3 +23,5 @@ package-lock.json
 ## CODE EDITORS
 !.vscode/
 !.zed/
+/starmade-launcher-ui/src/composables/minecraft
+/starmade-launcher-ui/src/components/minecraft
